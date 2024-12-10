@@ -1,0 +1,30 @@
+{
+  "name": "cikada",
+  "version": "1.0.0",
+  "description": "cikada project",
+  "main": "theme3-npm.mjs",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "cikada-lib": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mpackage": "^1.0.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cikada"
+  ],
+  "author": "Cikada <cikada@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.16.0",
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2"
+  }
+}
