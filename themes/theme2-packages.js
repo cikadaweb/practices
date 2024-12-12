@@ -1,4 +1,4 @@
-const {saturateUserInfo} = require('./node_modules/cikada-lib');
+const {saturateUserInfo} = require('cikada-lib');
 
 console.log(saturateUserInfo(
     {
