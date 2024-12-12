@@ -8,11 +8,6 @@
     "example": "examples"
   },
   "dependencies": {
-    "cikada-lib": "^1.0.0",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "mpackage": "^1.0.0",
-    "multer": "^1.4.5-lts.1"
   },
   "scripts": {
     "start": "node",
